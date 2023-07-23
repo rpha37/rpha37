@@ -5,7 +5,7 @@
 [![Twiter](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rpha37)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:notrpha@gmail.com)
 
-<img width="20%" align="right" alt="Github" src="https://openclipart.org/download/33199/anarchistcomunism.svg" />
+<img width="28%" align="right" alt="Github" src="https://openclipart.org/download/33199/anarchistcomunism.svg" />
 
 &nbsp;
 
@@ -20,13 +20,6 @@
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
-  <a href="https://github.com/rpha37/handle-path-oz">
-    <img width="25%" align="right" alt="rpha37's github stats" src="https://github-readme-stats.vercel.app/api?username=rpha37&show_icons=true&theme=radical" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 
@@ -41,5 +34,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 </p>
   
 ---
+
+  <a href="https://github.com/rpha37/handle-path-oz">
+    <img width="50%" align="center" alt="rpha37's github stats" src="https://github-readme-stats.vercel.app/api?username=rpha37&show_icons=true&theme=radical" />
+  </a>
 
 <!-- Its main projects -->
